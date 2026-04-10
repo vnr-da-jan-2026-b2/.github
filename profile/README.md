@@ -8,5 +8,5 @@ This program is run in collaboration with **VNR VJIET** (https://vnrvjiet.ac.in/
 
 If you would like to be part of similar future training programs, please drop us an email at `hello@psnm.in`.
 
-<img width="530" height="168" alt="image" src="https://github.com/user-attachments/assets/d432a847-f683-4003-ab2c-de78ee106b75" />
-<img width="284" height="128" alt="image" src="https://github.com/user-attachments/assets/5005d4b5-cc95-4d79-9338-8c9640cd24e8" />
+<img height="50" alt="image" src="https://github.com/user-attachments/assets/d432a847-f683-4003-ab2c-de78ee106b75" />
+<img height="50" alt="image" src="https://github.com/user-attachments/assets/5005d4b5-cc95-4d79-9338-8c9640cd24e8" />
